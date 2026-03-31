@@ -92,7 +92,6 @@ All forms have Logout buttons to return to LoginForm
    - SELECT tickets for dashboards
    - UPDATE ticket status via AdminDashboard
    - DELETE tickets
-
 4. Add User Authentication with password hashing
 5. Add error handling and logging
 
